@@ -1,0 +1,29 @@
+input,
+#counter,
+#controls {
+  text-align: center;
+  margin: auto;
+}
+
+#counter {
+  margin: 10px;
+  font-size: 100px;
+  font-weight: 700;
+  
+}
+
+#controls {
+  width: 600px;
+}
+
+#controls button {
+  text-transform: capitalize;
+  width: 140px;
+  height: 40px;
+  margin: 16px;
+  font-size: 20px;
+  font-weight: 700;
+  border-style: none;
+  background-color: rgb(182, 94, 26);
+  cursor: pointer;
+}
